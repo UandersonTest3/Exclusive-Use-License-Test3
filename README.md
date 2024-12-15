@@ -1,2 +1,3 @@
-# Exclusive-Use-License-Test3
-My License
+## Exclusive-Use-License-Test3
+
+# read LICENSE.txt
